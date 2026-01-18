@@ -1,0 +1,8 @@
+{
+  "name": "Dianji - Your Home Services Expert",
+  "description": "A premium handyman service application for quick, affordable, and trusted home repairs. Includes AI-powered diagnosis and service matching.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
